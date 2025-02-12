@@ -13,16 +13,18 @@ function Projects() {
       <h2 className="sectionTitle">WEB DEVELOPER</h2>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={viberr}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Viberr"
-          p="Streaming App"
+                  src={freshBurger}
+
+          link="https://github.com/rajakanjali30/FoodEat"
+          h3="FoodEat"
+          p="Restraurant Landing Page"
         />
         <ProjectCard
-          src={freshBurger}
+                  src={viberr}
+
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
+          h3="Bhutiya"
+          p="Movie landing Page"
         />
         <ProjectCard
           src={hipsster}
